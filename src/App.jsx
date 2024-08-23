@@ -25,7 +25,7 @@ function App() {
           <input type="button" value="4" />
           <input type="button" value="5" />
           <input type="button" value="6" />
-          <input type="button" value="+" />
+          <input type="button" value="+++" />
         </div>
         <div>
           <input type="button" value="1" />
